@@ -1,10 +1,10 @@
 let quizs = [
-    [`1-savol: dunyo so'zining englizcha nomi`,`world`],
-    [`2-savol: rang so'zining englizcha nomi`,`color`],
-    [`3-savol: raqam so'zining englizcha nomi`,`number`],
-    [`4-savol: ism so'zining englizcha nomi`,`name`],
-    [`5-savol: bolalar so'zining englizcha nomi`,`children`],
-    [`6-savol: qizil so'zining englizcha nomi`,`red`],
+    [`1-savol: dunyo so'zining englizcha nomi`,`World`],
+    [`2-savol: rang so'zining englizcha nomi`,`Color`],
+    [`3-savol: raqam so'zining englizcha nomi`,`Number`],
+    [`4-savol: ism so'zining englizcha nomi`,`Name`],
+    [`5-savol: bolalar so'zining englizcha nomi`,`Children`],
+    [`6-savol: qizil so'zining englizcha nomi`,`Red`],
 ];
 
 
