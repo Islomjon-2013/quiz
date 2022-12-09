@@ -1,0 +1,28 @@
+body{
+    padding: 30px;
+}
+.false{
+    border-color:red ;
+}
+.true{
+    border-color: green;
+}
+input{
+    border: 2px solid blue;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn{
+    padding: 10px 30px;
+    margin: 20px;
+    font-size: 16px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.btn:hover{
+    box-shadow: 0 0 10px gray;
+    cursor: pointer;
+}
